@@ -12,12 +12,13 @@ aplikasi ini adalah berbasis web yang akan digunakan untuk melakukan absen siswa
 6. Mengedit Data Siswa
 7. Menghapus Data Siswa
 8. Menampilkan Data Siswa
-9. Menambahkan Kelas
-10. Mengedit Kelas
-11. Menginput Data Hari Libur
-12. Mengedit Data Hari Libur
-13. Menghapus Data Hari Libur
-14. Menampilkan Data Hari Libur
+9. Menambahkan Data Kelas
+10. Mengedit Data Kelas
+11. Menampilkan Data Kelas 
+12. Menginput Data Hari Libur
+13. Mengedit Data Hari Libur
+14. Menghapus Data Hari Libur
+15. Menampilkan Data Hari Libur
 
 # Guru
 1. Login/Logout
