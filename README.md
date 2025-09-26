@@ -4,7 +4,7 @@ aplikasi ini adalah berbasis web yang akan digunakan untuk melakukan absen siswa
 # Daftar Vitur
 
 # Admin
-1. Menamabah Data guru
+1. Menambah Data guru
 2. Mengedit Data Guru
 3. Menghapus Data Guru
 4. Menampilkan Data Guru
